@@ -1,0 +1,45 @@
+DriveIT je webový informaèní systém, který umožòuje pohodlnou správu autoškoly z
+pohledu výuky, personalistiky a financí.
+
+Neregistrovaný uživatel
+- prohlizi kurzy
+- muze se registrovat
+
+Registrovaný uživatel
+- prihlasuje se do kurzu
+- plati kurz
+- prihlasuje se na kondicni jizdy a praktickou vyuku
+- odeslat sken s potvrzenim
+- plati pokutu
+- vklada hodnoceni kurzu a insturktoru
+- prihlasuje se na zkousky
+- potvrzuje zmenu (cas, vozidlo)
+
+Instruktor
+- potvrzuje ucast studenta na vyuce
+- rozvrhuje praktickou vyuku
+- edituje nebo maze terminy jizdy
+- generuje a tiskne rozpis jizd
+- prohlizi historii jizd a dochazku studentu
+
+Manažer
+- potvrzuje prihlasku
+- rozvrhuje teoretickou vyuku (terminy a instruktory) do systemu
+- potvrzuje zmenu (cas, vozidlo)
+- spravuje vozovy park
+- spravuje udaje o zamestnancich a insturktorech
+- generuje statistiky a prehledy
+
+
+
+System
+
+
+
+
+
+
+
+
+
+Registrace
