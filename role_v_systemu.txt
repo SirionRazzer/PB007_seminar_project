@@ -29,17 +29,32 @@ Manažer
 - spravuje vozovy park
 - spravuje udaje o zamestnancich a insturktorech
 - generuje statistiky a prehledy
+- prideluje opravneni uzivatelum systemu
+- pridava nove uzivatele
+
+System(?)
+- 
+
+Administrator
+- spravuje system
+- restartuje system
+- instaluje aktualizace
+- prideluje opravneni uzivatelum systemu
+
+Nefunkcni pozadavky
+- platforma Java
+- pri registraci se heslo šifruje SHA-512
+- prihlaseni pomoci login a hesla
+- uzivatele jsou ulozeni v databazi, ktera se automaticky aktualizuje denne v 0:00
+- system nedovoli nahrat soubor (scan) vetsi nez 10 MB
+- system je funkcni v OS Linux
+- system time-out 10 vterin
+- data jsou pravidelne zalohovana jednou tydne na externi uloziste
+- GUI odpovida zavedenym standardum
+- system ma webove rozhrani
+- system zpracuje n pozadavku za dany casovy usek
+- data podlehaji zakonu o ochrane osobnich udaju
 
 
-
-System
-
-
-
-
-
-
-
-
-
-Registrace
+?
+legislativa, implementace
