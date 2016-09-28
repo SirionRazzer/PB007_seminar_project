@@ -2,4 +2,4 @@
 Seminar project from Software engineering
 
 1. tyden: zpracovan, neodevzdava se
-2. tyden: dodelat, odevzdat
+2. tyden: dodelan, odevzdan report

@@ -32,8 +32,8 @@ Manažer
 - prideluje opravneni uzivatelum systemu
 - pridava nove uzivatele
 
-System(?)
-- 
+System
+- (komunikace s IS úradu)
 
 Administrator
 - spravuje system
