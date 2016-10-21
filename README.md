@@ -5,4 +5,4 @@ Seminar project from Software engineering
 2. tyden: dodelan, odevzdan report
 3. tyden: dodelan, odevzdan report
 4. tyden: dodelan, odevzdan report
-5. tyden: fuha... :/
+5. tyden: update
