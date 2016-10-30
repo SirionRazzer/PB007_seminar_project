@@ -6,4 +6,4 @@ Seminar project from Software engineering
 3. tyden: dodelan, odevzdan report
 4. tyden: dodelan, odevzdan report
 5. tyden: dodelan, odevzdan report
-6. tyden: dodelan, zatím neodevzdáno
+6. tyden: dodelan, odevzdan report
