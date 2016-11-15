@@ -7,4 +7,4 @@ Seminar project from Software engineering
 4. tyden: dodelan, odevzdan report
 5. tyden: dodelan, odevzdan report
 6. tyden: dodelan, odevzdan report
-7. tyden: dodelan, odevzdat report
+7. tyden: dodelan, odevzdan report
