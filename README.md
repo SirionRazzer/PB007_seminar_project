@@ -8,4 +8,4 @@ Seminar project from Software engineering
 5. tyden: dodelan, odevzdan report
 6. tyden: dodelan, odevzdan report
 7. tyden: dodelan, odevzdan report
-8. tyden: TED NESAHAT
+8. tyden: dodelano, ale nejsem si jisty temi normamy, ale kdyztak to v nedeli odevzdejte pls, kdybyste nevedeli ani vy. Diky.
