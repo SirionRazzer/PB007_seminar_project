@@ -9,3 +9,5 @@ Seminar project from Software engineering
 6. tyden: dodelan, odevzdan report
 7. tyden: dodelan, odevzdan report
 8. tyden: dodelan, odevzdan report (asi s chybami)
+9. tyden: dodelan, odevzdan report
+10. tyden: TODO
