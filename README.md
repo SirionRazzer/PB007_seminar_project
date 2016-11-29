@@ -11,3 +11,16 @@ Seminar project from Software engineering
 8. tyden: dodelan, odevzdan report (asi s chybami)
 9. tyden: dodelan, odevzdan report
 10. tyden: TODO
+
+misto krizku muze byt ctverecek
+
+5/14 cerchovana vodorovna cara, funkce vraci nejakou informaci (pridat popisek navratoveho typu podle navratoveho typu, pokud je jiny od void)
+
+if => pouziju opt
+
+switch => pouzit alt
+..vodorovne cary urcuji jednotlive case
+
+loop [for each...]
+
+break prerusi cyklus
