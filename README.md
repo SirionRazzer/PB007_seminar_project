@@ -24,3 +24,5 @@ switch => pouzit alt
 loop [for each...]
 
 break prerusi cyklus
+
+ODEVZDAT 3 SEKVENCNI DIAGRAMY
