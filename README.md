@@ -10,7 +10,12 @@ Seminar project from Software engineering
 7. tyden: dodelan, odevzdan report
 8. tyden: dodelan, odevzdan report (asi s chybami)
 9. tyden: dodelan, odevzdan report
-10. tyden: TODO
+10. tyden: dodelan, mozno odevzdat v tomto stavu
+
+
+
+_________________
+TODO
 
 misto krizku muze byt ctverecek
 
