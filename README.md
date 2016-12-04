@@ -10,7 +10,7 @@ Seminar project from Software engineering
 7. tyden: dodelan, odevzdan report
 8. tyden: dodelan, odevzdan report (asi s chybami)
 9. tyden: dodelan, odevzdan report
-10. tyden: dodelan, mozno odevzdat v tomto stavu
+10. tyden: dodelan, odevzdan report
 
 
 
