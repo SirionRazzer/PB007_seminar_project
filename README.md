@@ -8,7 +8,7 @@ Seminar project from Software engineering
 5. tyden: dodelan, odevzdan report
 6. tyden: dodelan, odevzdan report
 7. tyden: dodelan, odevzdan report
-8. tyden: dodelan, odevzdan report (asi s chybami)
+8. tyden: dodelan, odevzdan report
 9. tyden: dodelan, odevzdan report
 10. tyden: dodelan, odevzdan report
 11. tyden: dodelan, odevzdan report
