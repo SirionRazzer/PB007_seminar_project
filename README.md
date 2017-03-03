@@ -12,4 +12,5 @@ Seminar project from Software engineering
 9. tyden: dodelan, odevzdan report
 10. tyden: dodelan, odevzdan report
 11. tyden: dodelan, odevzdan report
-12. tyden: in progress
+12. tyden: dodelan, odevzdan report
+Uzavreno
